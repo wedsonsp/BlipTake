@@ -1,0 +1,6 @@
+@BlipTake_HostAddress = http://localhost:5056
+
+GET {{BlipTake_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
