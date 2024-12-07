@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3WPGHkriQEanLMxOfT12sQAAAAACAAAAAAAQZgAAAAEAACAAAABC0GITLwG6Mom+VINHusoy2qM4kvb3lFVu8wKJxZGB9AAAAAAOgAAAAAIAACAAAADH6+qbWDJ788KChBA5kA/y4X9+YYNmQHIREGVtYtOXKIAAAAB+pwxAazKu3s+AuCxKrB87MCGEQ6QNox3eUegfqTkR+1uTU88ALZlQXHtfngZbHHrcCG3/7m4Im3fvhsSxCesdFMhmgaXabXYIvCUG/3uT35C/CNxYBqflToJyYzRKqp39idHCXpqAkPDX2Lo7FE8SQIRqVKspQ2MNYpW7a57f8UAAAADxZxBCLdA3Kx4+iFkXWCvM6c6mJijHEt2LAGZ3H8a4gx3syTMLk5Retx6jaK/ZlewuBu4v3g4JEZ0Sfz3PLlce</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-cq1-009.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+    <History>True|2024-12-07T04:33:08.0352503Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/06/2024 23:01:37</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/06/2024 23:01:37</publishTime>
+    </File>
+    <File Include="BlipTake.deps.json">
+      <publishTime>12/07/2024 01:33:04</publishTime>
+    </File>
+    <File Include="BlipTake.dll">
+      <publishTime>12/07/2024 01:33:04</publishTime>
+    </File>
+    <File Include="BlipTake.exe">
+      <publishTime>12/07/2024 01:33:04</publishTime>
+    </File>
+    <File Include="BlipTake.pdb">
+      <publishTime>12/07/2024 01:33:04</publishTime>
+    </File>
+    <File Include="BlipTake.runtimeconfig.json">
+      <publishTime>12/07/2024 01:33:04</publishTime>
+    </File>
+    <File Include="BlipTake.staticwebassets.endpoints.json">
+      <publishTime>12/07/2024 01:33:05</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>03/06/2024 13:00:56</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>05/21/2024 13:42:50</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>05/21/2024 13:42:58</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>05/21/2024 13:42:50</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/07/2024 01:33:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
